@@ -2,7 +2,7 @@ import pathlib
 from setuptools import setup, find_packages 
 
 HERE = pathlib.Path(__file__).parent 
-VERSION = '0.1.0' 
+VERSION = '0.1.1' 
 PACKAGE_NAME = 'meyworldutils' 
 AUTHOR = 'Pieter Meyer' 
 AUTHOR_EMAIL = 'meyerpieter.ds@gmail.com' 
