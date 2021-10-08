@@ -6,16 +6,16 @@ Firstly, I will list each functionality with a one sentence description. Followi
 
 Enjoy.
 
-**Description:
+**Description**:
 
 - split_x_into_n: Splits two variables into a list of n parts from [0, ..., x] 
 
 - count_occurence:
 
 
-**Examples:
+**Examples**:
 
-- **split_x_into_n:
+- **split_x_into_n**:
 
 split(10, 5)
 
